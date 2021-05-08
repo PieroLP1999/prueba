@@ -1,0 +1,13 @@
+Entrada:SensorDistancia,Entrada:PosicionObstaculo,Salida:Giro,Salida:Direccion,AcciondelaSalida
+0,0,0,1,avanzar
+0,1,0,1,Avanzar
+0,-1,0,1,Avanzar
+0.5,1,-1,1,Giro a la Izquierda
+0.5,-1,1,1,Giro a la Derecha
+0.5,0,0,1,Avanzar
+1,1,0,-1,Retroceder
+1,0,0,-1,Retroceder
+1,0,0,-1,Retroceder
+-1,0,0,1,Avanzar
+-1,-1,0,1,Avanzar
+-1,1,0,1,Avanzar
